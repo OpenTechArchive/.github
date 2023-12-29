@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: anatawa12/fork-sync-all-branches@v1
         with:
-          github_token: ${{ secrets.WORKFLOW_TOKEN }}
+          github_token: ${{ secrets.ORKFLOW_TOKEN }}
